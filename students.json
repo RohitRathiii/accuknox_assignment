@@ -1,0 +1,13 @@
+[
+  {"id": 1, "name": "Aarav", "math": 78, "science": 84, "english": 71},
+  {"id": 2, "name": "Priya", "math": 92, "science": 88, "english": 95},
+  {"id": 3, "name": "Rohan", "math": 65, "science": 70, "english": 58},
+  {"id": 4, "name": "Ananya", "math": 88, "science": 91, "english": 84},
+  {"id": 5, "name": "Vikram", "math": 55, "science": 62, "english": 67},
+  {"id": 6, "name": "Sneha", "math": 81, "science": 76, "english": 89},
+  {"id": 7, "name": "Arjun", "math": 73, "science": 68, "english": 75},
+  {"id": 8, "name": "Kavya", "math": 95, "science": 97, "english": 90},
+  {"id": 9, "name": "Rahul", "math": 60, "science": 58, "english": 63},
+  {"id": 10, "name": "Meera", "math": 84, "science": 79, "english": 82},
+  {"id": 11, "name": "Ishaan", "math": 77, "science": null, "english": 80}
+]
